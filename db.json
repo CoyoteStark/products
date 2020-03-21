@@ -28,5 +28,8 @@
             "media": { },
             "overviews": [ ]
        }
-    ]
+    ],
+    "Models": {
+        "name": "Cables"
+    }
 }
