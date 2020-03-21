@@ -11,104 +11,22 @@
             "category": "Tarjetas y Botones",
             "sat_key": "46171619",
             "total_inventories": "500+",
-            "media": {
-                "main_image": "/media/3168/AMC2.jpg",
-                "gallery": [
-                    "/media/3171/AMC2.jpg",
-                    "/media/3172/AMC2-diagram.jpg",
-                    "/media/3173/AMC2-diagram-3.jpg"
-                ],
-                "documents": [
-                    "/media/3174/Certificate_EU_CE_esES_9007206884526731.pdf",
-                    "/media/3175/AMC2_Installation_Guide_esES_1354092299.pdf"
-                ],
-                "videos": [
-                    "http://youtube.com/watch?v=UiaDVOL8i5c",
-                    "http://youtube.com/watch?v=U3ePaP3CbM8",
-                    "http://youtube.com/watch?v=e2hS6n6X1uI",
-                    "http://youtube.com/watch?v=zjZ62TSNjwA",
-                    "http://youtube.com/watch?v=U5oqudqnOWs"
-                ]
-            },
-            "overviews": [
-                {
-                    "title": "Descripci&oacuten",
-                    "description": "<p class=\"ql-align-justify\">Desc. del Producto.</p>",
-                    "order": 1,
-                    "image_align": "center",
-                    "image_path": "/media/14595/instalacioninde.jpg",
-                    "mobile_image_path": null
-                },
-                {
-                    "title": "Funci&oacuten",
-                    "description": "<ul><li>Apertura de puerta</li></ul>",
-                    "order": 2,
-                    "image_align": "right",
-                    "image_path": "/media/14591/ZK-K11001.jpg"
-                },
-                {
-                    "title": " Alcance de operaci&oacuten del bot&oacuten",
-                    "description": "<p>10 cm</p>",
-                    "order": 4,
-                    "image_align": "left",
-                    "image_path": "/media/14592/ZK-K11002.jpg"
-                }
-            ]
+            "media": { },
+            "overviews": [ ]
         },
-         {
+        {
             "tvc_model": "RBM065001",
-            "provider_model": "APC-AMC2-4WCF",
-            "tvc_id": 5464,
-            "name": "BOSCH A_APCAMC24WCF- AMC2 MODULO DE CONTROL DE ACCESO DE 1 A 4 PUERTAS / INTERFAZ WIEGAND / 8 ENTRADAS / 8 SALIDAS",
+            "provider_model": "APC-AMC2-WWWW",
+            "tvc_id": 5463,
+            "name": "BOSCH A_APCAMC24WCF- AMC2 MODULO DE CONTROL DE ACCESO DE 4 PUERTAS / INTERFAZ WIEGAND / 8 ENTRADAS / 8 SALIDAS",
             "type": "Valor",
             "brand": "BOSCH",
             "category_id": 76,
             "category": "Tarjetas y Botones",
             "sat_key": "46171619",
             "total_inventories": "500+",
-            "media": {
-                "main_image": "/media/3168/AMC2.jpg",
-                "gallery": [
-                    "/media/3171/AMC2.jpg",
-                    "/media/3172/AMC2-diagram.jpg",
-                    "/media/3173/AMC2-diagram-3.jpg"
-                ],
-                "documents": [
-                    "/media/3174/Certificate_EU_CE_esES_9007206884526731.pdf",
-                    "/media/3175/AMC2_Installation_Guide_esES_1354092299.pdf"
-                ],
-                "videos": [
-                    "http://youtube.com/watch?v=UiaDVOL8i5c",
-                    "http://youtube.com/watch?v=U3ePaP3CbM8",
-                    "http://youtube.com/watch?v=e2hS6n6X1uI",
-                    "http://youtube.com/watch?v=zjZ62TSNjwA",
-                    "http://youtube.com/watch?v=U5oqudqnOWs"
-                ]
-            },
-            "overviews": [
-                {
-                    "title": "Descripci&oacuten",
-                    "description": "<p class=\"ql-align-justify\">Desc. del Producto.</p>",
-                    "order": 1,
-                    "image_align": "center",
-                    "image_path": "/media/14595/instalacioninde.jpg",
-                    "mobile_image_path": null
-                },
-                {
-                    "title": "Funci&oacuten",
-                    "description": "<ul><li>Apertura de puerta</li></ul>",
-                    "order": 2,
-                    "image_align": "right",
-                    "image_path": "/media/14591/ZK-K11001.jpg"
-                },
-                {
-                    "title": " Alcance de operaci&oacuten del bot&oacuten",
-                    "description": "<p>10 cm</p>",
-                    "order": 4,
-                    "image_align": "left",
-                    "image_path": "/media/14592/ZK-K11002.jpg"
-                }
-            ]
-        }
+            "media": { },
+            "overviews": [ ]
+       }
     ]
 }
