@@ -1,6 +1,6 @@
 {
-    "data": [{
-        {
+    "data":{
+        
             "id": 11215,
             "name": "BELDEN AX101315 - JACK Modular / UTP / CAT5E / Color azul",
             "model": "TCE442010",
@@ -19,6 +19,5 @@
                 "id": 25673,
                 "url": "https://fasyl.tvc.mx/media/33064/DH-HACHFW1239TN-ALED-0360B.jpg"
             }]
-        }
-    ]
+    }
 }
