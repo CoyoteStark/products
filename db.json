@@ -1,15 +1,5 @@
 {
     "current_page": 1,
     "data": [
-    ],
-    "first_page_url": "page=1",
-    "from": 1,
-    "last_page": 89,
-    "last_page_url": "page=89",
-    "next_page_url": "page=2",
-    "path": "/products",
-    "per_page": 40,
-    "prev_page_url": null,
-    "to": 40,
-    "total": 100
+    ]
 }
