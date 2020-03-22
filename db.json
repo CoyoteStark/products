@@ -1,24 +1,5 @@
 {
     "data": [{
-            "id": 2103,
-            "name": "AVTECH T4DC(PCON01Z) - Distribuidor de energia para 4 camaras / Salida 12 VDC",
-            "model": "52201",
-            "provider_model": "PCON01Z",
-            "list_price": "0.00",
-            "product_flow_type": "product_flow_type_volume",
-            "product_type": "product_type_serial",
-            "brand_name": "AVTECH",
-            "category_name": "Fuentes de Poder y Adaptadores",
-            "status": 1,
-            "stage_name": "Outlet",
-            "stage_id": 3,
-            "total_inventories": null,
-            "branch_name": "SYS",
-            "media": [{
-                "id": 19178,
-                "url": "https://fasyl.tvc.mx/media/33064/DH-HACHFW1239TN-ALED-0360B.jpg"
-            }]
-        }
         {
             "id": 11215,
             "name": "BELDEN AX101315 - JACK Modular / UTP / CAT5E / Color azul",
